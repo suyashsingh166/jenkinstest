@@ -7,6 +7,6 @@ int sum=a+b;
         System.out.println("How s you!!!!!");
         System.out.println("sum"+sum);
 System.out.println("Vishwadeep");
-System.out.println("Vishwadeep");
+System.out.println("Binod");
     }
 }
